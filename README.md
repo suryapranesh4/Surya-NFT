@@ -1,14 +1,10 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# Surya NFT - An ERC721 Non-fungible-token 
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
-# Surya-NFT
+
+Created using Goerli Testnet </br>
+
+Goerli testnet etherscan link : https://goerli.etherscan.io/address/0xb1dc2D7a66903743Adc9FeF92a92BC1a0A8609d5 </br>
+
+Opensea NFT Collection link : https://testnets.opensea.io/collection/surya-nft
